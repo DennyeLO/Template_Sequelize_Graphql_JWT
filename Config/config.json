@@ -1,0 +1,10 @@
+{
+  "development": {
+    "username": "root",
+    "password": null,
+    "database": "nama_database_kamu",
+    "host": "localhost",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  }
+}
